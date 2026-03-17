@@ -46,5 +46,5 @@ WebContent/
 Oracle database is used for storing user and train data.
 
 ## Author
-Viveka T S
+T S Viveka 
 Full Stack Java Developer
